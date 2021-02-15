@@ -37,7 +37,7 @@ h4 {
     transition-timing-function: ease-in;
 }
 
-.buttons-container:hover {
+.note-container:hover .buttons-container {
     opacity: 1;
 }
 
