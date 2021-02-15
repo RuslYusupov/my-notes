@@ -58,3 +58,14 @@
     font-size: 2.2rem;
     line-height: 2.2rem;
 }
+
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+
+    .modal-container {
+        width: 90%;
+    }
+  
+}

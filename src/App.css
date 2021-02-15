@@ -31,3 +31,19 @@ a {
 h1 {
     font-size: 6.2rem;
 }
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+
+    .main-container {
+        padding: 0px 1rem;
+        max-width: 95vw;
+    }
+
+    h1 {
+        font-size: 4.65rem;
+        margin-top: 12px;
+    }
+  
+}

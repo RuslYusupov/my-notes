@@ -1,3 +1,15 @@
 header {
     text-align: center;
 }
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+
+    .img-in-header {
+        width: 5rem;
+        height: 100%;
+    }
+  
+}
+

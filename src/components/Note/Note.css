@@ -63,12 +63,14 @@ h4 {
     cursor: pointer;
 }
 
+
 /* Mobiles */
 
 @media (max-width: 641px) {
 
     .note-container {
-      width: 90%;
+        margin-right: 1.6rem;
+        width: 90%;
     }
   
 }

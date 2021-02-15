@@ -49,3 +49,14 @@ form {
     font-size: 2.2rem;
     line-height: 2.2rem;
 }
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+
+    .form-container {
+      width: 95%;
+      margin: 3.5rem auto;
+    }
+  
+}
